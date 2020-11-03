@@ -19,5 +19,5 @@ services:
     volumes:
       - db-store:/var/lib/mysql
 
-volumes: 
+volumes:
   db-store:
